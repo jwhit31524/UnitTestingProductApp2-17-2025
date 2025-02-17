@@ -14,6 +14,8 @@ namespace ConsoleApp1
         public string Name { get; set; } 
         public decimal Price { get; set; }  
 
+        public DateTime DatePurchased { get; set; }
+
 
     }
 }
